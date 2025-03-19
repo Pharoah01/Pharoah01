@@ -2,10 +2,6 @@
 
 ## 🛡️ Cybersecurity Enthusiast | 🧠 Reverse Engineer | 🤖 AI/ML Explorer | 💡 CTF Creator | 🛠️ Hardware Hobbyist
 
-![Profile Views](https://komarev.com/ghpvc/?username=HexPh4r40h&label=Profile%20views&color=blueviolet&style=flat)  
-![GitHub followers](https://img.shields.io/github/followers/HexPh4r40h?label=Followers&style=social)  
-![GitHub stars](https://img.shields.io/github/stars/HexPh4r40h?affiliations=OWNER%2CCOLLABORATOR&style=social)  
-
 ---
 
 ### 🚀 About Me
@@ -53,13 +49,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,java,bash,linux,arduino,raspberrypi,github,git,ghidra,ida,radare2,wireshark,burpsuite,tensorflow,pytorch" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-![Elavarasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HexPh4r40h&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HexPh4r40h&layout=compact&theme=tokyonight)
 
 ---
 
