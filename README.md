@@ -72,7 +72,7 @@ I enjoy hiding *real* and *fake* flags inside encrypted network traffic and chal
 ### 📫 Let's Connect!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/elavarasan-t-a5971b2a5)  
-- 🌐 [Personal Blog](https://pharoah.in.net/assests/pages/blog)  
+- 🌐 [Personal Blog](https://pharoah.in.net/pages/blog)  
 - 🐙 [GitHub](https://github.com/Pharoah01)
 
 ---
