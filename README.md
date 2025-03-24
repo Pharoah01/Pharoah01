@@ -1,6 +1,8 @@
 # 👋 Hi there! I'm Elavarasan Thandapani (aka HexPh4r40h) 👾
 
-## 🛡️ Cybersecurity Enthusiast | 🧠 Reverse Engineer | 🤖 AI/ML Explorer | 💡 CTF Creator | 🛠️ Hardware Hobbyist
+## 🛡️ Cybersecurity Enthusiast | 🧠 Reverse Engineer | 🤖 AI/ML Explorer | 💡 CTF Player | 🛠️ Hardware Hobbyist
+
+![Profile views](https://komarev.com/ghpvc/?username=Pharoah01&label=Profile%20Views&color=blueviolet&style=flat-square)
 
 ---
 
@@ -18,8 +20,7 @@
 
 ### 🛠️ What I Do
 
-- 🏴‍☠️ **CTF Competitor & Organizer**  
-  - Hosting CTFs for my college using platforms like **CTFd**, with custom challenges and my own flag formats (e.g., `hackOPS{}`).
+- 🏴‍☠️ **CTF Competitor & Organizer** 
   - Building realistic lab environments simulating attack & defense scenarios.
 
 - 🔍 **Reverse Engineering & Exploit Development**  
@@ -48,6 +49,16 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,java,bash,linux,arduino,raspberrypi,github,git,ghidra,ida,radare2,wireshark,burpsuite,tensorflow,pytorch" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pharoah01&show_icons=true&theme=radical" alt="Pharoah01's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pharoah01&theme=radical" alt="Pharoah01's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pharoah01&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 ---
