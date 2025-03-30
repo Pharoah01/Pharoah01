@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Elavarasan Thandapani (aka HexPh4r40h) 👾
+# 👋 Hi there! I'm HexPh4r40h👾
 
 ## 🛡️ Cybersecurity Enthusiast | 🧠 Reverse Engineer | 🤖 AI/ML Explorer | 💡 CTF Player | 🛠️ Hardware Hobbyist
 
