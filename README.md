@@ -25,11 +25,11 @@
   - Designing binary exploitation, cryptography, and network forensics puzzles.
 
 - 🔍 **Reverse Engineering & Exploit Development**  
-  - Skilled in analyzing binaries using **Ghidra**, **IDA Pro**, and **Radare2**.
+  - Beginner in analyzing binaries using **Ghidra**, **IDA Pro**, and **Radare2**.
   - Rebuilding iconic challenges (like those from picoCTF) with custom twists.
 
 - 🤖 **AI/ML in Cybersecurity**  
-  - Building anomaly detection systems, malware classifiers, and automating security analysis using **TensorFlow**, **PyTorch**, and **Scikit-learn**.
+  - Practicing Building anomaly detection systems, malware classifiers, and automating security analysis using **TensorFlow**, **PyTorch**, and **Scikit-learn**.
 
 - ⚙️ **Embedded & Wireless Security Projects**  
   - Prototyping on **ESP32**, **Arduino**, and **Raspberry Pi**.
