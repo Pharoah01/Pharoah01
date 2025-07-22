@@ -1,160 +1,84 @@
-# 👋 Hi there! I'm HexPh4r40h👾
+# 👋 Hey there! I'm **HexPh4r40h** 👾
 
+## 🛡️ Cybersecurity Enthusiast | 🧠 Reverse Engineer | 🤖 AI/ML Explorer | 🎯 CTF Player | 🔩 Hardware Tinkerer
 
-
-## 🛡️ Cybersecurity Enthusiast | 🧠 Reverse Engineer | 🤖 AI/ML Explorer | 💡 CTF Player | 🛠️ Hardware Hobbyist
-
-
-
-![Profile views](https://komarev.com/ghpvc/?username=Pharoah01&label=Profile%20Views&color=blueviolet&style=flat-square)
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=Pharoah01&label=Profile%20Views&color=blueviolet&style=flat-square)
 
 ---
-
-
 
 ### 🚀 About Me
 
+🎓 I'm an undergraduate Computer Science & Engineering student specializing in **Cybersecurity** at **Sathyabama Institute of Science and Technology**.
 
+🔐 I'm deeply passionate about information security — from **reverse engineering malware** and **binary exploitation** to crafting and solving **CTF challenges** and conducting deep-dive research in **AI/ML for cybersecurity**.
 
-🎓 I am an undergraduate Computer Science and Engineering student specializing in **Cybersecurity** at Sathyabama Institute of Science and Technology.
+💻 Currently exploring the intersection of **artificial intelligence**, **malware detection**, and **embedded systems security**, especially involving **microcontrollers**, **RF technologies**, and **5G networks**.
 
-
-
-🔐 Passionate about all things security — from breaking binaries and reverse engineering malware to crafting challenging CTFs and solving security puzzles.
-
-
-
-🧠 Currently expanding my skills in **AI/ML applications for cybersecurity**, while also experimenting with **hardware-based projects** involving microcontrollers, wireless communications, and 5G networks.
-
-
-
-👾 I go by **HexPh4r40h** in the reverse engineering and CTF communities, and I enjoy designing creative challenges, especially in **binary exploitation, cryptography, and network forensics**.
-
-
+👾 I go by **HexPh4r40h** in CTF and RE communities — known for building tricky challenges and solving some of the toughest ones out there.
 
 ---
-
-
 
 ### 🛠️ What I Do
 
+- 🏴‍☠️ **CTF Competitor & Challenge Designer**  
+  - Participating in international CTFs & building realistic attack/defense labs.
+  - Designing binary exploitation, cryptography, and network forensics puzzles.
 
+- 🔍 **Reverse Engineering & Exploit Development**  
+  - Skilled in analyzing binaries using **Ghidra**, **IDA Pro**, and **Radare2**.
+  - Rebuilding iconic challenges (like those from picoCTF) with custom twists.
 
-- 🏴‍☠️ **CTF Competitor & Organizer** 
+- 🤖 **AI/ML in Cybersecurity**  
+  - Building anomaly detection systems, malware classifiers, and automating security analysis using **TensorFlow**, **PyTorch**, and **Scikit-learn**.
 
-  - Building realistic lab environments simulating attack & defense scenarios.
-
-
-
-- 🔍 **Reverse Engineering & Exploit Development**  
-
-  - Writing and solving RE challenges with assembly, Ghidra, IDA, and Radare2.
-
-  - Recreating and customizing well-known CTF problems like picoCTF challenges.
-
-
-
-- 🤖 **AI/ML + Security**  
-
-  - Exploring AI models for anomaly detection, malware classification, and offensive security tooling.
-
-
-
-- ⚙️ **Embedded Systems & Wireless Projects**  
-
-  - Prototyping hardware-based security solutions using **MCUs** (e.g., ESP32, Arduino) for **wireless communication** and **5G security research**.
-
-
+- ⚙️ **Embedded & Wireless Security Projects**  
+  - Prototyping on **ESP32**, **Arduino**, and **Raspberry Pi**.
+  - Working on **wireless communication**, **SDR-based attacks**, and **5G security** applications.
 
 ---
 
+### 🧠 Skills
 
-
-### 🧩 Skills
-
-
-
-- **Languages:** Python, C, Bash, Java  
-
-- **Security:** Binary Exploitation, Cryptography, Network Security, Malware Analysis, Forensics  
-
-- **Tools:** Ghidra, IDA Pro, Radare2, Wireshark, Burp Suite, Metasploit  
-
-- **AI/ML:** TensorFlow, PyTorch, Scikit-learn (Security-focused models)  
-
-- **Hardware:** Arduino, ESP32, RF Tools, SDR (Software Defined Radio)
-
-
+- **Languages:** Python, C, Java, Bash  
+- **Domains:** Reverse Engineering, Binary Exploitation, Cryptography, Network Security, Forensics  
+- **Tools & Frameworks:**  
+  `Ghidra` · `IDA Pro` · `Radare2` · `Wireshark` · `Burp Suite` · `Metasploit`  
+  `TensorFlow` · `PyTorch` · `Scikit-learn`  
+- **Hardware & Wireless:**  
+  `Arduino` · `ESP32` · `Raspberry Pi` · `SDR` · `RFID/NFC`
 
 ---
-
-
 
 ### 🧰 Tech Stack
 
-
-
 <p align="center">
-
-  <img src="https://skillicons.dev/icons?i=python,c,java,bash,linux,arduino,raspberrypi,github,git,ghidra,ida,radare2,wireshark,burpsuite,tensorflow,pytorch" />
-
+  <img src="https://skillicons.dev/icons?i=python,c,java,bash,linux,arduino,raspberrypi,github,git,ghidra,ida,radare2,wireshark,burpsuite,tensorflow,pytorch" />
 </p>
 
-
-
 ---
-
-
 
 ### 📊 GitHub Stats
 
-
-
 <p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Pharoah01&show_icons=true&theme=radical" alt="Pharoah01's GitHub stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pharoah01&layout=compact&theme=radical" alt="Top languages" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Pharoah01&show_icons=true&theme=radical" alt="HexPh4r40h's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pharoah01&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
+---
 
+### 💡 Fun Fact
+
+I love embedding *real* and *decoy flags* in encrypted network streams just to see who can find them 😏
 
 ---
 
+### 📫 Connect With Me
 
-
-### 📢 Fun Fact
-
-
-
-I enjoy hiding *real* and *fake* flags inside encrypted network traffic and challenging others to find them 😉.
-
-
-
----
-
-
-
-### 📫 Let's Connect!
-
-
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/elavarasan-t-a5971b2a5)  
-
-- 🌐 [Personal Blog](https://pharoah.in.net/pages/blog)  
-
+- 🔗 [LinkedIn](https://www.linkedin.com/in/elavarasan-t-a5971b2a5)  
+- 🌐 [Personal Blog](https://pharoah.in.net/pages/blog)  
 - 🐙 [GitHub](https://github.com/Pharoah01)
 
-
-
 ---
 
-
-
-> ⚔️ "Breaking the code to protect the world."  
-
-> — HexPh4r40h
-
+> 🧠 _"Breaking the code to protect the world."_  
+> — **HexPh4r40h**
